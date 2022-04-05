@@ -1,0 +1,50 @@
+
+body{
+    background-color:black;
+    color:lemonchiffon;
+    height:350vh;
+}
+
+.h1box{
+    border: solid cornsilk;
+    border-width: 2px;
+}
+
+.h2box{
+    border: solid cornsilk;
+    border-width: 2px;
+}
+
+.navContainer{
+    border:solid cornsilk;
+    border-width: 2px;
+    
+}
+
+.h3box{
+    border: solid cornsilk;
+    border-width: 2px;
+
+}
+
+.wordsAndPic{
+    border: solid cornsilk;
+    border-width: 2px;
+
+}
+
+img{
+    height: 400px;
+}
+
+span{
+    color: red;
+}
+
+
+.infoContainer{
+    border:solid salmon;
+    border-width:.2px;
+    height:auto;
+    margin:2em;
+}
